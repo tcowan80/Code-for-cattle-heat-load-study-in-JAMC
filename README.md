@@ -3,7 +3,7 @@
 This repository contains code to calculate the cattle heat stress indices for AGCD observations over Australia, 
 and BARRA-R (version 1) reanalysis. The source input files are needed to successfully run the code.
 
-AGCD data is available at: https://dapds00.nci.org.au/thredds/catalog/zv2/agcd/v1/catalog.html
+AGCD data is available at: https://dapds00.nci.org.au/thredds/catalog/zv2/agcd/v1/catalog.html ; 
 BARRA data is available at: https://dapds00.nci.org.au/thredds/catalogs/cj37/BARRA/BARRA_R/BARRA_R.html
 
 ## calc_barra_hli.py
